@@ -1,0 +1,6 @@
+HDI (Human Developement Index) is a measure used to determine and compare the level of developement of 
+different countries according to 3 meain factors: life expectancy , education and comercial power per capita.
+ The values range between 0 (low developement) to 1 (high developement).
+
+
+

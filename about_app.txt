@@ -1,0 +1,9 @@
+<p align="justify">
+<br>
+This app is a data manipulation platform. It enables the user to visualize and filter the main data in various ways and to compare it to additional datasets
+ in order to perform different types of analysis with an interactive UI. 
+The app is written in R and CSS and it utilizes various packages such as dplyr, ggplot2, and Leaflet. 
+The data is pulled from distinct sources (See sources list below) and was built in order to present and analize information about global suicide rates and its correlation to several (potentially) relevant factors.
+  The code is available on my <a href = "https://github.com/RHendler" target = "_blank"><font color="blue"><u>GitHub account</u></font></a>.
+<br>
+</p>

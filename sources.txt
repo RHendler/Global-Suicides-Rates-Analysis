@@ -1,0 +1,20 @@
+<font color="blue">
+<br>
+ - <a href = "http://hdr.undp.org/en/indicators/137506" target = "_blank"><u>United Nations Development Program</u></a>
+<br>
+<br>
+ - <a href = "https://databank.worldbank.org/data/source/world-development-indicators" target = "_blank"><u>The World Bank</u></a>
+<br>
+<br>
+ - <a href = "https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/data" target = "_blank"><u>Kaggle - Suicide in the Twenty-First Century</u></a>
+<br>
+<br>
+ - <a href = "https://www.kaggle.com/akshaychavan/average-temperature-per-country-per-year/data" target = "_blank"><u>Kaggle - Average Temperature per country per year</u></a>
+<br>
+<br>
+ - <a href = "https://www.who.int/mental_health/suicide-prevention/en/" target = "_blank"><u>World Health Organization</u></a>
+<br>
+<br>
+</font>
+
+

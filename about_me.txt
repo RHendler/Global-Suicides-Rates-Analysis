@@ -1,0 +1,13 @@
+<p align="justify">
+<br>
+Hi! My name is Roi Hendler. I'm a master student for Ecology, Evolution and Nature
+ Conservation at the University of Potsdam and a freelance R & Shiny developer. 
+I specialize in statistical analysis & modeling and I believe that in order to understand and research data it is extremely 
+helpful visualize it efficiently and experiment with it by using an interactive UI.
+<br>
+</p>
+<br>
+Do you need an app to manage and analyze your own data? <a href = "mailto:roi.hendler@gmail.com" target = "_blank"><font color="blue"><u>E-mail</u></font></a> me and let's get to work!
+<br>
+<br>
+

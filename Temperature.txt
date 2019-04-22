@@ -1,0 +1,2 @@
+This graphic demonstrates the correlation betwen the average annual temperature in different countries to their average suicide rates. 
+These average temperatures were calculated based on annual measurments taken between 2000 - 2013. 

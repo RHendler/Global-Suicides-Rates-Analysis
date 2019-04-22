@@ -1,0 +1,8 @@
+The Gini index is used to rank countries based on their levels of  financial inequality. 
+The main influencing factors are differences and variance between income levels within the country's population. 
+A higher Gini level indicates a higher degree of inequality.
+
+
+
+
+
