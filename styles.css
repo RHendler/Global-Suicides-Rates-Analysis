@@ -1,0 +1,154 @@
+body, label, a {
+  font-family: 'Georgia', serif;
+  font-size: 18px;
+  font-weight: 500;
+  color: #000000;
+  text-align: left;
+}
+
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    margin-left: 0;
+    background-color:#d7e7ef;
+}
+
+.form-group.shiny-input-container{
+  
+  margin-left:15px;
+}
+
+.row {
+    margin-left:6px;
+    margin-right:6px;
+    background-color: #d7e7ef
+  
+}
+
+/* header */
+#titlePanel {
+  
+  background-color: #d7e7ef;
+  margin-left: 0;
+  margin-top: 0;
+
+}
+
+.h5, h5 {
+    font-size: 16px;
+    text-align: right;
+    margin-right: 0;
+    padding-right: 0;
+    right:0;
+
+}
+
+.h4{
+      font-size: 17px;
+
+}
+
+
+table.dataTable th.dt-right, table.dataTable td.dt-right {
+    text-align: left;
+}
+
+
+.nav{
+  
+   border-bottom: 2px solid #000;
+   margin-bottom: 15px;
+
+}
+nav.nav-tabs{
+    margin-left: 40px;
+}
+
+.nav-tabs>li{
+    margin-left: 45px;
+    margin-right: 30px;
+}
+
+.nav-tabs>li:first-child{
+    margin-left: 100px;
+}
+
+#sources{
+  text-align:right;
+}
+
+
+.selectize-input.full {
+    background-color: #f9f9f9;
+}
+
+.col-sm-8 {
+    width: 80%;
+}
+
+.col-sm-offset-1 {
+    margin-left: 2%;
+}
+
+.col-sm-11 {
+    width: 100%;
+}
+
+.h2, h2 {
+    font-size: 40px;
+    font-family:"Times";
+    padding-top: 0;
+    padding-left: 20px;
+    margin-top:0;
+    text-align:center;
+    font-weight: bold
+}
+
+table.dataTable thead th, table.dataTable thead td {
+    padding: 0px 5px 5px;
+    border-bottom: 2px solid #111;
+    font-size: 15px;
+    text-align: left;
+}
+
+tbody td {
+    border-top: 1px solid #ddd;
+    font-size: 16px;
+}
+
+.dataTables_paginate {
+    color: #333;
+    width: 400px;
+}
+
+/*SidePanel/*
+
+.col-sm-2{
+  
+  margin-left:40px;
+}
+
+
+/* sidebar */
+
+#sidebarPanel.well{
+  
+  margin-top:20px;
+  background-color: #d7e7ef;
+  border: 35px;
+  box-shadow: none;
+  border-radius: 15px;
+  padding-top: 15px;
+  padding-left: 40px;
+  padding-right: -15px;
+
+  font-size: 14px;
+  text-align: left;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: justify;
+    margin-left:60px;
+}
